@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ahmadazhar/Desktop/revampGithub/MLFlow/MLFlow-Hands-On-Practice/src/mlruns/965576491022727387/01ab9efb07414119bf1a2df1cd87f623/artifacts
+end_time: 1736684267429
+entry_point_name: ''
+experiment_id: '965576491022727387'
+lifecycle_stage: active
+run_id: 01ab9efb07414119bf1a2df1cd87f623
+run_name: nervous-yak-501
+run_uuid: 01ab9efb07414119bf1a2df1cd87f623
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736684267217
+status: 3
+tags: []
+user_id: ahmadazhar

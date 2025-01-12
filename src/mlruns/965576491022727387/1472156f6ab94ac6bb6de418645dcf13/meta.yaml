@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ahmadazhar/Desktop/revampGithub/MLFlow/MLFlow-Hands-On-Practice/src/mlruns/965576491022727387/1472156f6ab94ac6bb6de418645dcf13/artifacts
+end_time: 1736683824944
+entry_point_name: ''
+experiment_id: '965576491022727387'
+lifecycle_stage: active
+run_id: 1472156f6ab94ac6bb6de418645dcf13
+run_name: indecisive-bee-938
+run_uuid: 1472156f6ab94ac6bb6de418645dcf13
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736683822480
+status: 3
+tags: []
+user_id: ahmadazhar

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ahmadazhar/Desktop/revampGithub/MLFlow/MLFlow-Hands-On-Practice/src/mlruns/965576491022727387/73a94b5e892f4869b6b6a17d400119b2/artifacts
+end_time: 1736683241576
+entry_point_name: ''
+experiment_id: '965576491022727387'
+lifecycle_stage: active
+run_id: 73a94b5e892f4869b6b6a17d400119b2
+run_name: nimble-sheep-396
+run_uuid: 73a94b5e892f4869b6b6a17d400119b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736683238647
+status: 3
+tags: []
+user_id: ahmadazhar

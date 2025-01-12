@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ahmadazhar/Desktop/revampGithub/MLFlow/MLFlow-Hands-On-Practice/src/mlruns/0/6263ec456b2c460fb057aa90f0ba2c7b/artifacts
+end_time: 1736684611641
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6263ec456b2c460fb057aa90f0ba2c7b
+run_name: resilient-fox-569
+run_uuid: 6263ec456b2c460fb057aa90f0ba2c7b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736684611428
+status: 3
+tags: []
+user_id: ahmadazhar

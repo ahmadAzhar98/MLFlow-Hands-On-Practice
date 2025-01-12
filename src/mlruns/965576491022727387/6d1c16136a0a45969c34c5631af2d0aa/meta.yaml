@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ahmadazhar/Desktop/revampGithub/MLFlow/MLFlow-Hands-On-Practice/src/mlruns/965576491022727387/6d1c16136a0a45969c34c5631af2d0aa/artifacts
+end_time: 1736683379251
+entry_point_name: ''
+experiment_id: '965576491022727387'
+lifecycle_stage: active
+run_id: 6d1c16136a0a45969c34c5631af2d0aa
+run_name: fun-sloth-437
+run_uuid: 6d1c16136a0a45969c34c5631af2d0aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736683377092
+status: 3
+tags: []
+user_id: ahmadazhar
